@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm MD Azhar Sohail
 
-### A passionate Java Backend Developer || Spring Boot Developer || DSA Enthusiast.
+### Java Backend Developer | Building Scalable Backend Systems with Spring Boot | REST APIs | Microservices | DSA Enthusiast
 
 📧 Email Me 👉 ✉️(mdazharsohail452@gmail.com) For Collaboration/Project or Anything Else. 😊😊
 
