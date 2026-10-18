@@ -2,7 +2,7 @@
 
 ### Java Backend Developer | Building Scalable Backend Systems with Spring Boot | REST APIs | Microservices | DSA Enthusiast
 
-📧 Email Me 👉 ✉️(mdazharsohail452@gmail.com) For Collaboration/Project or Anything Else. 😊😊
+📧 Email Me 👉 ✉️(mdazharsohail452@gmail.com) For Collaboration/Project or Anything Else.
 
 🔭 I’m currently working on: Java Backend Projects with Spring Boot & REST APIs
 
@@ -20,7 +20,7 @@
 
 ⚡ Fun fact:I love solving coding problems, and every bug is just another challenge to conquer! 🚀
 
-🔗 I am a Software Developer & Tech Enthusiast.😊😊
+🔗 I am a Software Developer & Tech Enthusiast.😊
 
 
 
