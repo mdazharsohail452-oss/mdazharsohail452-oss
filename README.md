@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm MD Azhar Sohail
 
-### Java Full-Stack Developer | Building Scalable Backend Systems with Spring Boot | REST APIs | Microservices | DSA Enthusiast
+### Software Engineer | Data Science & ML Enthusiast | Java, Spring Boot, Python, SQL | REST APIs, Kafka, Redis
 
 📧 Email Me 👉 ✉️(mdazharsohail452@gmail.com) For Collaboration/Project or Anything Else.
 
